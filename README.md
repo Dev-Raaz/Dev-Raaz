@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dev-Raaz
 - 👀 I’m interested in Web Development and Block Chain
-- 🌱 I’m currently learning Block Chain
-- 💞️ I’m looking to collaborate on a Full-Stack MERN Project
+- 🌱 I’m currently working on a few personal projects.
+- 💞️ I’m looking to collaborate on building web apps.
 - 📫 How to reach me 
     📧 singhdebraj51@gmail.com
 
